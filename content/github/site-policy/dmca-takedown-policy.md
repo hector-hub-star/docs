@@ -79,7 +79,7 @@ We believe that transparency is a virtue. The public should know what content is
 Please also note that, although we will not publicly publish unredacted notices, we may provide a complete unredacted copy of any notices we receive directly to any party whose rights would be affected by it.
 
 ### E. Repeated Infringement
-
+https://www.cato-unbound.org/issues/january-2013/opportunities-copyright-reform
 It is the policy of GitHub, in appropriate circumstances and in its sole discretion, to disable and terminate the accounts of users who may infringe upon the copyrights or other intellectual property rights of GitHub or others.
 
 ### F. Submitting Notices
